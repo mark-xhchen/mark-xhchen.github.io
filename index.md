@@ -5,7 +5,6 @@ Current position: Postdoc, Department of Computer Science, City University of Ho
 Research Interest: Autonomous Driving, Causality Mining, Natural Language Processing, Emotion Analysis
 
 ### Contact
-![image](https://github.com/mark-xhchen/mark-xhchen.github.io/raw/main/cxh.jpeg)
 Email: xinhong.chen@my.cityu.edu.hk
 
 Address: Department of Computer Science, City University of Hong Kong
