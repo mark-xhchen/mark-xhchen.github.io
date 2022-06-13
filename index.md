@@ -9,7 +9,7 @@ Address: Department of Computer Science, City University of Hong Kong
 
 ### Selected Publication
 
-[image](https://github.com/mark-xhchen/cxh.jpg)
+[image](https://github.com/mark-xhchen/cxh.jpeg)
 
 - Luyao Ye, Zezhong Wang, **Xinhong Chen**, Jianping Wang, Kui Wu, Kejie Lu. [GSAN: Graph Self-Attention Network for Learning Spatial-Temporal Interaction Representation in Autonomous Driving](https://ieeexplore.ieee.org/document/9474961). In: IEEE Internet of Things Journal, vol. 9, no. 12, pp. 9190-9204, 2022.
 - Yifan Zhang, **Xinhong Chen**, Jianping Wang, Zuduo Zheng, Kui Wu. [A Generative Car-following Model Conditioned On Driving Styles](https://arxiv.org/abs/2112.05399). In: 	arXiv:2112.05399.
