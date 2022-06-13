@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Personal Introduction
 
-You can use the [editor on GitHub](https://github.com/mark-xhchen/mark-xhchen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Current position: Postdoc, Department of Computer Science, City University of Hong Kong 
+Research Interest: Autonomous Driving, Causality Mining, Natural Language Processing, Emotion Analysis
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contact
+Email: xinhong.chen@my.cityu.edu.hk
+Address: Department of Computer Science, City University of Hong Kong
 
-### Markdown
+### Selected Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[image](https://user-images.githubusercontent.com/47207122/173302291-6d0a347a-9ee0-42d2-adb1-e2851fa9e04b.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mark-xhchen/mark-xhchen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Luyao Ye, Zezhong Wang, **Xinhong Chen**, Jianping Wang, Kui Wu, Kejie Lu. [GSAN: Graph Self-Attention Network for Learning Spatial-Temporal Interaction Representation in Autonomous Driving](https://ieeexplore.ieee.org/document/9474961). In: IEEE Internet of Things Journal, vol. 9, no. 12, pp. 9190-9204, 2022.
+- Huaguo Chen, Jianjun Yang, **Xinhong Chen\***. [A convolution-based deep learning approach for estimating compressive strength of fiber reinforced concrete at elevated temperatures](https://www.sciencedirect.com/science/article/pii/S0950061821031755). In: Construction and Building Materials 313, 125437, 2021.
+- Yifan Zhang, **Xinhong Chen**, Jianping Wang, Zuduo Zheng, Kui Wu. [A Generative Car-following Model Conditioned On Driving Styles](https://arxiv.org/abs/2112.05399). In: 	arXiv:2112.05399.
+- Luyao Ye, Zezhong Wang, **Xinhong Chen**, Jianping Wang, Kui Wu, Kejie Lu. [GSAN: Graph Self-Attention Network for Interaction Measurement in Autonomous Driving](https://ieeexplore.ieee.org/document/9356060). In: Proceedings of 2020 IEEE 17th International Conference on Mobile Ad Hoc and Sensor Systems (MASS), 274-282, 2022.
+- Zongxi Li, **Xinhong Chen**; Haoran Xie; Qing Li; Xiaohui Tao; Gary Cheng. [EmoChannel-SA: exploring emotional dependency towards classification task with self-attention mechanism](https://link.springer.com/article/10.1007/s11280-021-00957-5). In: World Wide Web. 24(6), 2049–2070, 2021.
+- **Xinhong Chen**, Qing Li, Jianping Wang. [Conditional Causal Relationships between Emotions and Causes in Texts](https://aclanthology.org/2020.emnlp-main.252/). In: Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing, 3111-3121, 2020.
+- **Xinhong Chen**, Qing Li, Jianping Wang. [A Unified Sequence Labeling Model for Emotion Cause Pair Extraction](https://aclanthology.org/2020.coling-main.18/). In: Proceedings of the 28th International Conference on Computational Linguistics, 208-218, 2020.
+- Zongxi Li, **Xinhong Chen**, Haoran Xie, Qing Li and Xiaohui Tao, [EmoChannelAttn: Exploring Emotional Construction Towards Multi-Class Emotion Classification]([10.1109/WIIAT50758.2020.00036](https://doi.org/10.1109/WIIAT50758.2020.00036)). In: Proceedings of 2020 IEEE/WIC/ACM International Joint Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT), 242-249, 2020.
+- **Xinhong Chen**, Qing Li. [Event modeling and mining: a long journey toward explainable events](https://link.springer.com/article/10.1007/s00778-019-00545-0). In: The VLDB Journal 29, 459–482, 2020.
