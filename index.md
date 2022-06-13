@@ -1,4 +1,4 @@
-[image](https://github.com/mark-xhchen/cxh.jpeg)
+[image](https://github.com/mark-xhchen/mark-xhchen.github.io/cxh.jpeg)
 
 ## Personal Introduction
 
